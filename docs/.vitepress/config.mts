@@ -88,6 +88,7 @@ export default defineConfigWithTheme<DefaultTheme.Config>({
           },
           { text: '接入社交功能', link: '/Editor/UseMGS.md' },
           { text: '角色编辑工具', link: '/Editor/CharacterEditor.md' },
+          { text: '实体建模工具', link: '/Editor/SolidModelingTool.md' },
           {
             text: '自动裁剪规则与自定义裁剪距离',
             link: '/Editor/AutomaticAndCustomizedCullDistance.md'
